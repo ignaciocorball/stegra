@@ -1,9 +1,6 @@
 {
     "name": "Stegra",
     "symbol": "STEGRA",
-    "uri": "https://raw.githubusercontent.com/ignaciocorball/stegra/refs/heads/main/stegra_logo.jpeg",
-    "sellerFeeBasisPoints": 0,
-    "creators": null,
-    "collection": null,
-    "uses": null
+    "description": "Get ready for a fully integrated, digitalized, and circular plant in Boden, northern Sweden. Our giga-scale electrolyzer, powered by renewable electricity, will be the largest green hydrogen production plant in Europe. By swapping coal for green hydrogen, we refine iron ore into green iron, emitting steam – just plain water. This is game-changing innovation making it possible for us to produce near-zero emission steel, setting a new industry standard. When fully operational, we will reduce steel emissions by over 7 million tonnes per year. Europe's first new steel mill in 50 years is on its way.",
+    "image": "https://raw.githubusercontent.com/ignaciocorball/stegra/refs/heads/main/stegra_logo.jpeg"
 }
